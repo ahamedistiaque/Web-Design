@@ -1,0 +1,296 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    .navbar .navbar-toggler i {
+        color: #fff !important;
+        border: 1px solid #fff;
+    }
+
+    .navbar ul {
+        text-align: center;
+        background: red;
+    }
+
+    .row .hi {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .row h2 {
+        font-size: 25px;
+    }
+
+    .text p {
+        width: inherit;
+    }
+
+    .overlay {
+        padding: 115px 0px;
+    }
+    .social-platform li i {
+	margin-top: 12px;
+	margin-right: 16px;
+	
+}
+    .details h1 {
+	margin-top: 10px;
+}
+     .coloumn1 i {
+	margin-left: 115px;
+
+}
+    .coloumn2 i {
+
+	margin-left: 115px;
+	
+}
+    #ability {
+	display: none;
+}
+    #portfolio {
+	margin-top: 1200px;
+	
+}
+    .ques1 ul .you {
+	float: none;
+}
+    .ques1 ul .yo {
+	 float: none; 
+}
+    
+    #portfolio h1 {
+	font-size: 30px;
+}
+    .top-part ul li {
+	 margin-left: 11px; 
+	font-size: 11px;
+}
+    .mix img {
+	width: 253px;
+	height: 209px;
+}
+    .overlayp i {
+	margin-top: 84px;
+	margin-left: 120px;
+
+}
+    img {
+	height: 224px;
+}
+    .hiredetail h3 {
+	text-align: center;
+}
+    .row h2 {
+	text-align: center;
+}
+    .hirebtn {
+	margin-left: 70px;
+}
+    .message {
+	width: 289px;
+}
+    .coloumn1 {
+	margin-top: 60px;
+}
+    .btn:not(:disabled):not(.disabled) {
+	margin-top: 12px;
+	margin-left: 50px;
+}
+    .counter {
+	font-size: 31px;
+	padding-right: 18px;
+        margin-left: 0;
+}
+    .coffee {
+	height: 345px;
+}
+    .cup p {
+	 margin-left: 0px; 
+}
+    .cup {
+	position: relative;
+}
+    #testimonial h1 {
+	font-size: 30px;
+        padding-top: 39px;
+        
+}
+    .client img {
+	margin-left: 104px;
+	margin-top: -108px;
+    height: inherit;
+}
+ .comment p {
+	 margin-left: 0px; 
+	 margin-right: 0px; 
+	 margin-top: 0px; 
+} 
+    .get h1 {
+	margin-left: 45px;
+}
+    .adressdetails .fas {
+	height: 32px;
+	width: 32px;
+}
+    .adressdetails p {
+	font-size: 15px;
+}
+    #footer-bottom {
+	
+	 padding: 0px 0; 
+}
+    #footer-bottom ul li {
+	margin-right: 0px;
+	padding-right: 4px;
+	font-size: 9px;
+}
+    #touch {
+	margin-bottom: 172px;
+}
+}
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width:767px){
+    .navbar .navbar-toggler i {
+        color: #fff !important;
+        border: 1px solid #fff;
+    }
+
+    .navbar ul {
+        text-align: center;
+        background: red;
+    }
+    .row h2 {
+	font-size: 39px;
+}
+    .details h1 {
+	font-size: 37px;
+	
+}
+    .img-fluid {
+	max-width: 90%;
+}
+    .tumi {
+	width: 90%;
+}
+    .details h1 {
+	
+	margin-top: 38px;
+}
+    .ques1 ul .yo {
+	 float: inherit; 
+}
+    .ques1 ul .you {
+	float: inherit;
+}
+    container {
+	 padding-right: 0px; 
+	 margin-left: 0; 
+}
+    #ability {
+	 margin-top: 100px; 
+}
+    .m-auto {
+	margin: 0 !important;
+}
+    .barfiller {
+	height: 5px !important;
+}#ability h1 {
+	margin-bottom: 20px;
+}
+    .abilities {
+	 height: inherit; 
+}
+   .coloumn1 i {
+	margin-left: 226px;
+} 
+    .coloumn2 i {
+	margin-left: 226px;
+}
+    .coloumn1 {
+	margin-top: 60px;
+}
+    #portfolio {
+	margin-top: 1200px;
+}
+    .mix img {
+	width: 230px;
+	height: 215px;
+}
+    .overlayp i {
+	margin-top: 90px;
+	margin-left: 90px;
+	
+}
+    #hireme {
+	padding: 30px 0;
+	
+}
+   .hiredetail {
+	text-align: center;
+}
+    .counter {
+	 margin-left: 0px; 
+}
+    .cup p {
+	 margin-left: 0px; 
+}
+    .cup {
+	position: relative;
+}
+    .coffee {
+	height: 455px;
+}
+  #testimonial h1 {
+	padding-top: 25px;
+}  
+    .client img {
+	margin-left: 341px;
+}
+    .comment p {
+	 margin-left: 0px; 
+	 margin-right: 0px; 
+	 margin-top: 0px; 
+}
+    .client img {
+	margin-left: 79px;
+}
+    .get h1 {
+	margin-left: 140px;
+}
+    .message {
+	width: 512px;
+}
+    #footer-bottom {
+	display: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
